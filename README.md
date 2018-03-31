@@ -1,1 +1,2 @@
 # iOSLifeCycle
+iOS app生命周期和uiviewcontroller生命周期的demo，目的用于解决Klavier程序里面文件支持功能的bug
